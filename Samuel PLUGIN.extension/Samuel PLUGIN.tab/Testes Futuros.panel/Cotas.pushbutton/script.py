@@ -1,5 +1,5 @@
 ﻿# -*- coding: utf-8 -*-
-__title__ = "Cotas Automaticas de Familias"
+__title__ = "Cotas Automaticas de Familias(em construção)"
 __version__ = "2.9"
 __doc__ = (
   

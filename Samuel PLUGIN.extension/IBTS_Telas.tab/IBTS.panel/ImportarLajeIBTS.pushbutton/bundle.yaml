@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GenericUIItemBundle>
+    <Title>Importar Laje IBTS</Title>
+    <ToolTip>Importa um DWG do IBTS e cria um Piso com os parâmetros da tela soldada preenchidos automaticamente.</ToolTip>
+    <Author>Plugin IBTS</Author>
+</GenericUIItemBundle>
